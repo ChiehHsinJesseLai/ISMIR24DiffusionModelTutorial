@@ -1,4 +1,4 @@
-# ismir24-diffusion-tutorial
+# ISMIR24 Diffusion Model Tutorial
 
 
 Cite this PDF:
