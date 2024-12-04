@@ -15,7 +15,7 @@ Please find our [project page](https://sites.google.com/view/diffusion-tutorial-
 ```
 
 ## Goal: Democratizing Diffusion Models to Music and Audio🎼
- This tutorial covered the theory and practice of diffusion models for music and sound. We will explain the methodology, explore its history, and demonstrate music and sound-specific applications such as real-time generation and various other downstream tasks. By bridging the gap from computer vision techniques and models, we aim to spark further research interest and democratize access to diffusion models for the music and sound domains. 
+ This tutorial covered the theory and practice of diffusion models for music and sound. We explained the methodology, explore its history, and demonstrate music and sound-specific applications such as real-time generation and various other downstream tasks. By bridging the gap from computer vision techniques and models, we aim to spark further research interest and democratize access to diffusion models for the music and sound domains. 
 
 
 The tutorial comprises four sections. 
