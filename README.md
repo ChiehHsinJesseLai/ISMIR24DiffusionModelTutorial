@@ -4,9 +4,9 @@
 Cite this PDF:
 
 ```
-@misc{ismir24diffusiontutorial,
+@misc{lai24diffusionmodeltutorial,
   author = {Lai, Chieh-Hsin and Nguyen, Bac and Saito, Koichi and Ermon, Stefano and Mitsufuji, Yuki},
-  title = {ISMIR24 Diffusion Tutorial},
+  title = {Diffusion Model Tutorial @ ISMIR 2024},
   year = {2024},
   journal = {GitHub repository},
   url = {https://github.com/ChiehHsinJesseLai/ismir24-diffusion-tutorial}, 
