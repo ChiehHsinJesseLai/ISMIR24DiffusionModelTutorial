@@ -1,7 +1,8 @@
 # From White Noise to Symphony🎼: Diffusion Models for Music and Sound -- ISMIR24 Diffusion Model Tutorial
 
+Please find our [project page](https://sites.google.com/view/diffusion-tutorial-ismir24/home).
 
-Cite this PDF:
+## How to cite this PDF:
 
 ```
 @misc{lai24diffusionmodeltutorial,
@@ -12,3 +13,4 @@ Cite this PDF:
   url = {https://github.com/ChiehHsinJesseLai/ismir24-diffusion-tutorial}, 
 }
 ```
+
