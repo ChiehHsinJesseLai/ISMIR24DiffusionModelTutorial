@@ -27,3 +27,7 @@ The tutorial comprises four sections.
 - In the third section, a hands-on demonstration will focus on training diffusion models and applying pre-trained models for music/sound restoration. 
 
 - The final section outlines future research directions.
+
+
+## Contact
+Chieh-Hsin (Jesse) LAI: <a href="chieh-hsin.lai@sony.com">chieh-hsin.lai@sony.com</a>
