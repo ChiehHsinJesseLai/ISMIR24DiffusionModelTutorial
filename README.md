@@ -30,4 +30,10 @@ The tutorial comprises four sections.
 
 
 ## Contact
-Chieh-Hsin (Jesse) LAI: <a href="chieh-hsin.lai@sony.com">chieh-hsin.lai@sony.com</a>
+Chieh-Hsin (Jesse) LAI: 
+- Email: <a href="chieh-hsin.lai@sony.com">chieh-hsin.lai@sony.com</a>
+- X: [chieh-hsin.lai@sony.com](https://x.com/JCJesseLai)
+
+Yuki Mitsufuji:
+- Email: <a href="yuhki.mitsufuji@sony.com">yuhki.mitsufuji@sony.com</a>
+- X: [https://x.com/mittu1204](https://x.com/mittu1204)
