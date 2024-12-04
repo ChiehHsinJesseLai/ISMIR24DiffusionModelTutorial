@@ -14,9 +14,9 @@ Please find our [project page](https://sites.google.com/view/diffusion-tutorial-
 }
 ```
 ## Our Members:
-- *Organizers*: Chieh-Hsin (Jesse) Lai, Bac Nguyen Cong, Koichi Saito, Stefano Ermon, and Yuki Mitsufuji
+- **Organizers**: Chieh-Hsin (Jesse) Lai, Bac Nguyen Cong, Koichi Saito, Stefano Ermon, and Yuki Mitsufuji
 
-- *Speakers*: Chieh-Hsin (Jesse) Lai, Bac Nguyen Cong, Koichi Saito, and Yuki Mitsufuji
+- **Speakers**: Chieh-Hsin (Jesse) Lai, Bac Nguyen Cong, Koichi Saito, and Yuki Mitsufuji
 
 
 ## Goal: Democratizing Diffusion Models to Music and Audio🎼
