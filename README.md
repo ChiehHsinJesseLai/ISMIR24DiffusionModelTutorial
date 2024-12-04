@@ -32,7 +32,7 @@ The tutorial comprises four sections.
 ## Contact
 Chieh-Hsin (Jesse) LAI: 
 - Email: <a href="chieh-hsin.lai@sony.com">chieh-hsin.lai@sony.com</a>
-- X: [chieh-hsin.lai@sony.com](https://x.com/JCJesseLai)
+- X: [https://x.com/JCJesseLai](https://x.com/JCJesseLai)
 
 Yuki Mitsufuji:
 - Email: <a href="yuhki.mitsufuji@sony.com">yuhki.mitsufuji@sony.com</a>
