@@ -13,6 +13,11 @@ Please find our [project page](https://sites.google.com/view/diffusion-tutorial-
   url = {https://github.com/ChiehHsinJesseLai/ismir24-diffusion-tutorial}, 
 }
 ```
+## Our Members:
+- *Organizers*: Chieh-Hsin (Jesse) Lai, Bac Nguyen Cong, Koichi Saito, Stefano Ermon, and Yuki Mitsufuji
+
+- *Speakers*: Chieh-Hsin (Jesse) Lai, Bac Nguyen Cong, Koichi Saito, and Yuki Mitsufuji
+
 
 ## Goal: Democratizing Diffusion Models to Music and Audio🎼
  This tutorial covered the theory and practice of diffusion models for music and sound. We explained the methodology, explore its history, and demonstrate music and sound-specific applications such as real-time generation and various other downstream tasks. By bridging the gap from computer vision techniques and models, we aim to spark further research interest and democratize access to diffusion models for the music and sound domains. 
